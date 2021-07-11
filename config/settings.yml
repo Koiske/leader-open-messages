@@ -1,0 +1,3 @@
+plugins:
+  leader_open_messages_enabled:
+    default: true
